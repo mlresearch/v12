@@ -13,12 +13,12 @@ end: 2009-12-10
 published: 2011-03-03
 shortname: Causality in Time Series
 layout: proceedings
-key: PopescuCausality09
+id: PopescuCausality09
 abstract: 
 origpdf: 
 pdf: "./PopescuCausality09/PopescuCausality09.pdf"
 sections: 
-editors:
+editor:
 - given: Florin
   family: Popescu
 - given: Isabelle
