@@ -1,0 +1,31 @@
+---
+title: Causal Search in Structural Vector Autoregressive Models
+abstract: This paper reviews a class of methods to perform causal inference in the
+  framework of a structural vector autoregressive model. We consider three different
+  settings. In the first setting the underlying system is linear with normal disturbances
+  and the structural model is identified by exploiting the information incorporated
+  in the partial correlations of the estimated residuals. Zero partial correlations
+  are used as input of a search algorithm formalized via graphical causal models.
+  In the second, semi-parametric, setting the underlying system is linear with non-Gaussian
+  disturbances. In this case the structural vector autoregressive model is identified
+  through a search procedure based on independent component analysis. Finally, we
+  explore the possibility of causal search in a nonparametric setting by studying
+  the performance of conditional independence tests based on kernel density estimations.
+pdf: "./moneta11/moneta11.pdf"
+layout: inproceedings
+key: moneta11
+month: 0
+firstpage: 95
+lastpage: 114
+origpdf: http://jmlr.org/proceedings/papers/v12/moneta11/moneta11.pdf
+sections: 
+authors:
+- given: Alessio
+  family: Moneta
+- given: Nadine
+  family: Chlass
+- given: Doris
+  family: Entner
+- given: Patrik
+  family: Hoyer
+---
