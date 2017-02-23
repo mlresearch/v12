@@ -37,7 +37,8 @@ github:
   edit: true
   repository: v12
 conference:
-  name: 
+  name: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in
+    Time Series
   url: 
   location: Vancouver, Canada
   dates:
