@@ -4,7 +4,6 @@
 booktitle: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality
   in Time Series
 month: 0
-address: Vancouver, Canada
 publisher: JMLR Workshop and Conference Proceedings
 volume: 12
 year: '2009'
@@ -14,9 +13,9 @@ published: 2011-03-03
 shortname: Causality in Time Series
 layout: proceedings
 id: PopescuCausality09
-abstract: 
+abstract: ''
 origpdf: 
-pdf: "./PopescuCausality09/PopescuCausality09.pdf"
+pdf: http://proceedings.pmlr.press/PopescuCausality09/PopescuCausality09.pdf
 sections: 
 editor:
 - given: Florin
@@ -25,8 +24,6 @@ editor:
   family: Guyon
 title: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in
   Time Series
-conference: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality
-  in Time Series
 email: ''
 description: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality
   in Time Series, Vancouver, Canada
@@ -36,8 +33,15 @@ twitter_username: mlresearch
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
-gitub:
+github:
   edit: true
+  repository: v12
+conference:
+  name: 
+  url: 
+  location: Vancouver, Canada
+  dates:
+  - 2009-12-10
 analytics:
   google:
     tracking_id: UA-92432422-1
