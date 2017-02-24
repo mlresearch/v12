@@ -1,5 +1,3 @@
-# Site settings
-# Auto generated from v12.bib
 ---
 booktitle: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality
   in Time Series
@@ -12,6 +10,7 @@ end: 2009-12-10
 published: 2011-03-03
 shortname: Causality in Time Series
 layout: proceedings
+series: Proceedings of Machine Learning Research
 id: PopescuCausality09
 abstract: ''
 sections: 
@@ -44,3 +43,5 @@ conference:
 analytics:
   google:
     tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v12.bib
