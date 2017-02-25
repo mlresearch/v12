@@ -19,11 +19,19 @@ editor:
   family: Popescu
 - given: Isabelle
   family: Guyon
-title: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in
-  Time Series
-email: ''
-description: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality
-  in Time Series, Vancouver, Canada
+title: Proceedings of Machine Learning Research
+description: |
+  Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in Time Series
+    Held in Vancouver, Canada on 10 December 2009
+
+  Published as Volume 12 by the Proceedings of Machine Learning Research on 03 March 2011.
+
+  Volume Edited by:
+    Florin Popescu
+    Isabelle Guyon
+
+  Series Editors:
+    Neil D. Lawrence
 url: http://proceedings.mlr.press
 baseurl: "/v12"
 twitter_username: mlresearch
@@ -33,6 +41,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v12
+email: ''
 conference:
   name: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in
     Time Series
