@@ -13,13 +13,14 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: PopescuCausality09
 abstract: ''
+tex_title: 
+title: Proceedings of Machine Learning Research
 sections: 
 editor:
 - given: Florin
   family: Popescu
 - given: Isabelle
   family: Guyon
-title: Proceedings of Machine Learning Research
 description: |
   Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in Time Series
     Held in Vancouver, Canada on 10 December 2009
