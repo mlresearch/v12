@@ -33,6 +33,7 @@ description: |
 
   Series Editors:
     Neil D. Lawrence
+date_str: 10 Dec
 url: http://proceedings.mlr.press
 baseurl: "/v12"
 twitter_username: mlresearch
@@ -42,6 +43,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v12
+bibtex_copy: true
 email: ''
 conference:
   name: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in
