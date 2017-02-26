@@ -48,7 +48,7 @@ endnote_copy: true
 apa_copy: true
 email: ''
 conference:
-  name: Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in
+  name: NIPS Mini-Symposium on Causality in
     Time Series
   url: 
   location: Vancouver, Canada
