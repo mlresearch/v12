@@ -1,6 +1,6 @@
 ---
-booktitle: Proceedings of the Neural Information Processing Systems Mini-Symposium on Causality
-  in Time Series
+booktitle: Proceedings of the Neural Information Processing Systems Mini-Symposium
+  on Causality in Time Series
 month: 0
 publisher: PMLR
 volume: 12
@@ -15,14 +15,14 @@ id: PopescuCausality09
 abstract: ''
 tex_title: 
 title: Proceedings of Machine Learning Research
-sections: 
+cycles: false
 editor:
 - given: Florin
   family: Popescu
 - given: Isabelle
   family: Guyon
 description: |
-  Neural Information Processing Systems (NIPS) Mini-Symposium on Causality in Time Series
+  Proceedings of the Neural Information Processing Systems Mini-Symposium on Causality in Time Series
     Held in Vancouver, Canada on 10 December 2009
 
   Published as Volume 12 by the Proceedings of Machine Learning Research on 03 March 2011.
@@ -43,13 +43,15 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v12
-bibtex_copy: true
-endnote_copy: true
-apa_copy: true
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
 email: ''
 conference:
-  name: NIPS Mini-Symposium on Causality in
-    Time Series
+  name: NIPS Mini-Symposium on Causality in Time Series
   url: 
   location: Vancouver, Canada
   dates:
