@@ -12,15 +12,13 @@ shortname: Causality in Time Series
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: PopescuCausality09
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Florin
   family: Popescu
 - given: Isabelle
   family: Guyon
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Neural Information Processing Systems Mini-Symposium on Causality in Time Series
     Held in Vancouver, Canada on 10 December 2009
@@ -36,7 +34,7 @@ description: |
 date_str: 10 Dec
 url: http://proceedings.mlr.press
 baseurl: "/v12"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -48,6 +46,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -61,3 +60,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v12.bib
+---
